@@ -11,7 +11,8 @@
  
 ⚡ Fun fact: I can solve a Rubik's cube in under two minutes!
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 
 
 <a href="https://visitcount.itsvg.in">
