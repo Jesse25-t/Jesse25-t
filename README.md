@@ -11,6 +11,8 @@
  
 ⚡ Fun fact: I can solve a Rubik's cube in under two minutes!
 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Jesse25-t&label=Profile%20Views&color=3&icon=9&pretty=false" />
