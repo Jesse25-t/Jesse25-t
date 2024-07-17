@@ -1,16 +1,18 @@
-## Hi there 👋
+## Software Developer👋
 
-<!--
-**Jesse25-t/Jesse25-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 🔭 I’m currently working on web applications
+ 
+ 🌱 I’m currently learning type script
+ 
+👯 I’m looking to collaborate on open-source projects, innovative web applications, and AI integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about JavaScript, React, Node.js, or any web development related topics
+ 
+⚡ Fun fact: I can solve a Rubik's cube in under two minutes!
+
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Jesse25-t&label=Profile%20Views&color=3&icon=9&pretty=false" />
+</a>
+
